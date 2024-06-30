@@ -10,7 +10,7 @@
 - 📫 Reach me out via: [Twitter - @soleil_colza_](https://twitter.com/soleil_colza_)
 <br>
 
-## 🌱 Skills
+## ⚒️ Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=kotlin,gradle,graphql,ktor,androidstudio,supabase,firebase,redhat" />
 <br>
 <br>
