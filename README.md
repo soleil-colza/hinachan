@@ -7,18 +7,20 @@
 - 👩🏻‍💻 I'm an Android application developer!
 - 🌊 Also a Hackathon Enthusiast.
 - 🔭 I’m currently working on Kotlin Multiplatform-related projects.
-- 📫 Reach me out via: [Twitter - @username](https://twitter.com/soleil_colza_)
+- 📫 Reach me out via: [Twitter - @soleil_colza_](https://twitter.com/soleil_colza_)
 <br>
+
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=4&i=kotlin,gradle,graphql,ktor,androidstudio,supabase,firebase,redhat" />
 <br>
 <br>
+
 ## 🌱 Currently looking into:
 <img alt="currently learning" src="https://skillicons.dev/icons?theme=dark&perline=2&i=rust,ts" />
 <br>
 
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=username&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=soleil-colza&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soleil-colza&theme=vue-dark&layout=compact" />
 </div>
