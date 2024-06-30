@@ -25,5 +25,5 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soleil-colza&theme=vue-dark&layout=compact" />
 </div>
 
-Deep appreciation for the awesome template by @NonokaM ☺️🫶 
+Deep appreciation for the awesome template by ![@NonokaM](https://github.com/NonokaM) ☺️🫶 
 Refer to this ![article](https://qiita.com/mmnn/items/cf465d271171cba8bd51) 🙌
