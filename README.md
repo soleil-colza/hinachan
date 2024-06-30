@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=soleil-colza" />
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi fellow Androiders~!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi fellow Androiders!
 
 - 👩🏻‍💻 I'm an Android application developer!
 - 🌊 Also a Hackathon Enthusiast.
@@ -11,7 +11,7 @@
 <br>
 
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=4&i=kotlin,gradle,graphql,ktor,androidstudio,supabase,firebase,redhat" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=kotlin,gradle,graphql,ktor,androidstudio,supabase,firebase,redhat" />
 <br>
 <br>
 
