@@ -2,11 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=soleil-colza" />
 </div>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi fellow Androiders~!
 
 - 👩🏻‍💻 I'm an Android application developer!
 - 🌊 Also a Hackathon Enthusiast.
-- 🔭 I’m currently working on Kotlin Multiplatform-related projects.
+- 🔭 Currently working on Kotlin Multiplatform-related projects.
 - 📫 Reach me out via: [Twitter - @soleil_colza_](https://twitter.com/soleil_colza_)
 <br>
 
