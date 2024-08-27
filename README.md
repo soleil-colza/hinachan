@@ -6,7 +6,7 @@
 
 👩🏻‍💻 I'm an Android application developer!
 
-🌊 Also a Hackathon Enthusiast.
+🌊 Also a Hackathon && OSS Enthusiast.
 
 🔭 Currently working on Kotlin Multiplatform-related projects.
 
