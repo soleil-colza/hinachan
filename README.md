@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi fellow Androiders!
 
-👩🏻‍💻 I'm an Android application developer!
+👩🏻‍💻 I'm an Android application developer, and the founder of @romanark-inc, @nid-kt!
 
 🌊 Also a Hackathon && OSS Enthusiast.
 
